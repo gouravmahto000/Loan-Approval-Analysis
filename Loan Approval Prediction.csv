@@ -1,0 +1,21 @@
+Customer_ID,Age,Monthly_Income,Loan_Amount,Credit_Score,Previous_Default,Loan_Status,Loan_Amount_Ratio,Age_Group,Credit_Risk,Gender_Male,Education_Not Graduate,Employment_Type_Labour,Employment_Type_Salaried,Employment_Type_Self-Employed,City_Chennai,City_Delhi,City_Hyderabad,City_Mumbai,City_Pune,Married_Yes
+C001,25.0,35000.0,150000.0,720.0,No,0,4.285714285714286,Young,Good_Credit,True,False,False,True,False,False,False,False,False,False,True
+C002,34.0,55000.0,250000.0,680.0,No,0,4.545454545454546,Adult,Low_Risk,False,False,False,False,False,False,False,False,True,False,False
+C003,45.0,27000.0,120000.0,650.0,Yes,1,4.444444444444445,Adult,Low_Risk,True,False,False,False,True,False,True,False,False,False,True
+C004,22.0,22000.0,100000.0,590.0,No,1,4.545454545454546,Young,Risk,True,False,False,True,False,True,False,False,False,False,True
+C005,29.0,40000.0,180000.0,710.0,No,0,4.5,Young,Good_Credit,False,True,False,False,False,False,False,False,False,True,False
+C006,56.0,85000.0,350000.0,780.0,No,0,4.117647058823529,Middle,Good_Credit,True,False,False,False,False,False,False,True,False,False,True
+C007,33.5,500000.0,1200000.0,820.0,Yes,0,2.4,Adult,Excellent_Credit,True,False,False,True,False,False,False,False,False,False,False
+C008,31.0,30000.0,140000.0,690.0,No,0,4.666666666666667,Adult,Low_Risk,True,False,False,False,True,False,True,False,False,False,True
+C009,27.0,28000.0,130000.0,670.0,No,1,4.642857142857143,Young,Low_Risk,False,False,False,True,False,False,False,False,False,True,True
+C010,85.0,120000.0,600000.0,800.0,No,0,5.0,Senior,Good_Credit,True,False,False,False,False,False,False,False,True,False,True
+C011,42.0,45000.0,220000.0,730.0,No,0,4.888888888888889,Adult,Good_Credit,False,False,False,True,False,True,False,False,False,False,False
+C012,38.0,18000.0,90000.0,610.0,Yes,1,5.0,Adult,Low_Risk,True,True,True,False,False,False,False,False,False,False,True
+C013,23.0,32000.0,200000.0,640.0,No,1,6.25,Young,Low_Risk,True,False,False,False,False,False,True,False,False,False,True
+C014,36.0,38000.0,200000.0,705.0,No,0,5.2631578947368425,Adult,Good_Credit,False,False,False,True,False,False,False,False,False,True,False
+C015,49.0,65000.0,300000.0,760.0,No,0,4.615384615384615,Middle,Good_Credit,True,False,False,False,False,False,False,False,True,False,True
+C016,28.0,29000.0,110000.0,690.0,No,0,3.793103448275862,Young,Low_Risk,True,False,False,False,True,False,False,True,False,False,True
+C017,21.0,15000.0,80000.0,580.0,Yes,1,5.333333333333333,Young,Risk,False,True,True,False,False,True,False,False,False,False,False
+C018,33.5,42000.0,210000.0,725.0,No,0,5.0,Adult,Good_Credit,True,False,False,True,False,False,True,False,False,False,False
+C019,40.0,38000.0,240000.0,740.0,No,0,6.315789473684211,Adult,Good_Credit,True,False,False,False,False,False,False,False,False,False,True
+C020,33.0,48000.0,260000.0,705.0,No,0,5.416666666666667,Adult,Good_Credit,False,False,False,True,False,False,False,False,False,True,False
